@@ -1,0 +1,15 @@
+{
+  "mods":[
+   {
+     "modName" : "ArcaneMechina",
+     "recommendedVersion" : "0.0.0.8",
+     "latestVersion" : "0.0.0.9-tv",
+     "masterLink":"https://github.com/MaelstomTeam/Arcane-Mechina/tree/master/_release",
+     "versions":
+     {
+       "0.0.0.8":"arcanemechina-0.0.0.8.jar",
+       "0.0.0.9-tv":"arcanemechina-0.0.0.9-tv.jar"
+     }
+   }
+  ]
+}
