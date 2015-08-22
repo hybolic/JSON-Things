@@ -1,6 +1,4 @@
 {
-  "mods":[
-   {
      "modName" : "ArcaneMechina",
      "recommendedVersion" : "0.0.0.8",
      "latestVersion" : "0.0.0.9-tv",
@@ -16,6 +14,4 @@
          "jar":"arcanemechina-0.0.0.9-tv.jar"
        }
      ]
-   }
-  ]
 }
